@@ -31,3 +31,5 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 # Aprendizaje supervizado
 
 # Aprendizaje no supervizado
+
+# Aprendizaje profundo (Deep Learning)
