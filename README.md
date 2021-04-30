@@ -12,8 +12,9 @@ Si querés aportar a este repositorio podés abrir un pull request.
 Código de emojis según tipo de contenido: 
 [:tv: Video]
 [:notebook: Artìculo de blog]
-[:speaker: Podcast:]
+[:speaker: Podcast]
 [:open_file_folder: Repositorio]
+[:blue_book: Libro]
 
 
 
