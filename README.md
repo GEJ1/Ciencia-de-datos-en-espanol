@@ -35,7 +35,7 @@ Código de emojis según tipo de contenido:
 
 # Limpieza de datos
 
-* [Limpieza de datos con R por Camila Salazar](https://rpubs.com/camilamila/limpieza_R)
+* :notebook: [Limpieza de datos con R por Camila Salazar](https://rpubs.com/camilamila/limpieza_R)
 * :tv: [Limpieza y procesamiento de datos en Python por Ligdi Gonzalez](https://www.youtube.com/watch?v=fI0LHTJBj9w&ab_channel=AprendeIAconLigdiGonzalez)
 
 # Estadística
