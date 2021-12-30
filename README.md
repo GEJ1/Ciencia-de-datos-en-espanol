@@ -15,6 +15,7 @@ Código de emojis según tipo de contenido:
 [:speaker: Podcast]
 [:open_file_folder: Repositorio]
 [:blue_book: Libro]
+[🎓 Artículo científico]
 
 
 
