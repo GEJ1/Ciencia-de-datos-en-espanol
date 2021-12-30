@@ -29,8 +29,8 @@ Código de emojis según tipo de contenido:
 - [Limpieza de datos](#Limpieza-de-datos)
 - [Visualización](#Visualización)
 - [Analítica de Datos](#Analítica-de-Datos)
-- [Aprendizaje supervizado](#Aprendizaje-supervizado)
-- [Aprendizaje no supervizado](#Aprendizaje-no-supervizado)
+- [Aprendizaje supervisado](#Aprendizaje-supervisado)
+- [Aprendizaje no supervisado](#Aprendizaje-no-supervisado)
 - [Aprendizaje profundo](#Aprendizaje-profundo)
 
 
@@ -49,8 +49,8 @@ Código de emojis según tipo de contenido:
 
 # Analítica de Datos
 
-# Aprendizaje supervizado
+# Aprendizaje supervisado
 
-# Aprendizaje no supervizado
+# Aprendizaje no supervisado 
 
 # Aprendizaje profundo
