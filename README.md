@@ -9,7 +9,7 @@ Existen excelentes recopilaciones de material en inglés como [Awesome Data Scie
 
 Si querés aportar a este repositorio podés abrir un pull request.
 
-Código de emojis según tipo de contenido: 
+Código de emojis según tipo de contenido:
 [:tv: Video]
 [:notebook: Artìculo de blog]
 [:speaker: Podcast]
@@ -45,12 +45,14 @@ Código de emojis según tipo de contenido:
 
 # Programación
 
+* :tv: :open_file_folder: [Iniciación en R para científicos por Miguel Rojas](https://github.com/itsmiguelrojas/taller_r)
+
 # Visualización
 
 # Analítica de Datos
 
 # Aprendizaje supervisado
 
-# Aprendizaje no supervisado 
+# Aprendizaje no supervisado
 
 # Aprendizaje profundo
